@@ -1,0 +1,44 @@
+@charset "utf-8";
+a {text-decoration:none; outline:none;}
+ul {margin:0; padding:0;}
+img {border:0;}
+.clear {clear:both;}
+.wrap {width:100%;}
+.header_left {postion:relative;}
+.header_left a {float:left; padding:7px;}
+.header_left img {width:35px; height:35px;}
+.header_mid {float:left;}
+.header_mid h2 {margin:10px;}
+.header_right {float: right; margin-top: 20px;}
+.header_user {margin-right:50px;}
+.header_logout a {margin-right:50px; padding:2px 10px;}
+.content_wrap {width:100%;}
+.content_left {float:left; display:none;}
+.content_right {float:left; display:block; width:100%;}
+
+/* menu bar star */
+ul.drop-down-menu {
+	width: 150px;
+	position: absolute;
+	z-index: 5;
+}
+ul.drop-down-menu li {
+	position: relative;
+	white-space: nowrap;
+}
+ul.drop-down-menu a {	
+	display: block;
+	padding: 0 30px;
+	text-decoration: none;
+	line-height: 40px;
+}
+ul.drop-down-menu ul {
+	position: absolute;
+	z-index: 99;
+	left: 150px;
+	top: 0%;
+	min-width: 180px;
+}
+ul.drop-down-menu ul {display: none;} /*隱藏次選單*/
+ul.drop-down-menu li:hover > ul {display: block;} /*滑鼠滑入展開次選單*/
+/* menu bar end */

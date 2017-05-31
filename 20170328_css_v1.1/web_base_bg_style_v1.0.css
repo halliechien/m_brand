@@ -1,0 +1,17 @@
+@charset "utf-8";
+body {font-family:Arial, "微軟正黑體", "Microsoft JhengHei", sans-serif;}
+a {color:#000;}
+input {outline:none;}
+header {border-bottom:1px solid #ccc;}
+.user_id {font-size:16px; color:#ef5c28;}
+.user_word {font-size:15px;}
+.logout_btn {font-size:15px; background:#03C; color:#fff;}
+.menu_font {font-size:14px;}
+/* menu bar style star */
+ul.drop-down-menu li {border-right: #ccc 1px solid;}
+ul.drop-down-menu a {color: #fff; background:#333;}
+ul.drop-down-menu a:hover {background-color: #ef5c28; color: #fff;} /* 滑鼠滑入按鈕變色 */
+ul.drop-down-menu li:hover > a {background-color: #ef5c28; color: #fff;} /* 滑鼠移入次選單上層按鈕保持變色 */
+/* menu bar style end */
+.order_no_color {color:#03C;}
+

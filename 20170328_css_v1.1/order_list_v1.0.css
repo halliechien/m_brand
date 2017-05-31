@@ -1,0 +1,23 @@
+@charset "utf-8";
+.order_list_wrap {width:1000px; margin:0 auto;}
+.list_title {width:100%;}
+.list_search {width:90%; margin:0 auto;}
+.search_box {font-size:14px; float:left; margin:0 30px 15px;}
+.search_box input {margin:0 2px; padding:0 3px;}
+.list_content {width:100%;}
+.list_box {text-align:center; margin-bottom:15px;}
+.table_font {font-size:15px;}
+.list_box table {width:1000px; border:5px solid #ccc; table-layout:fixed; word-break:break-all; margin:0 auto;}
+.list_box th,td {border:1px solid #999; padding:5px 0; vertical-align:middle;}
+.list_box th {font-weight:bold; color:#666; background:#CCC;}
+.form_box {display:inline;}
+.list_btn {width:100px; margin:0 10px; font-size:14px;}
+.list_btn2 {width:75px; padding:2px 0 1px; font-size:12px;}
+.list_return {font-size:14px;}
+.tw1 {width:250px;}
+.tw2 {width:200px;}
+.tw3 {width:150px;}
+.submit_date {font-size:13px;}
+.page_no {width: 550px; margin:30px auto; font-size: 16px;}
+.page_no a {color: #666; padding:2px 8px;}
+.page_mark {color:#f00;}

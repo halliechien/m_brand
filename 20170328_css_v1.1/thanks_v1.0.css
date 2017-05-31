@@ -1,0 +1,11 @@
+@charset "utf-8";
+.thanks_title_wrap {width:100%; text-align:center;}
+.thanks_title_wrap h2 {font-size:18px; padding:30px 0 10px;}
+.thanks_title_wrap h3 {font-size:16px;}
+.thanks_info_wrap {width:100%;}
+.thanks_info_content {width:90%; margin:40px auto 0;}
+.thanks_info_content li {font-size:14px; line-height:28px;}
+.thanks_info_content h4 {font-size:16px; font-weight:bold;} 
+.thanks_total {font-size:20px; font-weight:bold;}
+.thanks_order_number {font-size:18px; font-weight:bold;}
+.thanks_remark {font-size:12px; color:#666; padding:0 10px;}

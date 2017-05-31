@@ -1,0 +1,12 @@
+.transport_content_wrap {width:100%;}
+.transport_item {}
+.transport_item li {
+	font-size:16px; 
+	height:50px; 
+	line-height:50px; 
+	border-bottom:1px solid #B3B3B3;
+	border-top:1px solid #E6E6E6;
+}
+.transport_item input[type="radio"] {width:25px; height:25px; margin:15px 0 0 15px;}
+.transport_item span {vertical-align:6px; margin-left:8px;}
+

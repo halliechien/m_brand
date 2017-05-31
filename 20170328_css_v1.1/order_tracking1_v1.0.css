@@ -1,0 +1,30 @@
+@charset "utf-8";
+.tracking_wrap {width:100%;}
+.tracking_btn_box {width:90%; margin:30px auto;}
+.tracking_btn {
+	border-radius:5px; 
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+	/*border:1px solid #14C47D;*/
+	max-width:300px;
+	margin:0 auto;	
+}
+.tracking_btn p {
+	font-size:20px; 
+	color:#fff;
+	height:50px;
+	line-height:50px;
+	text-align:center;
+}
+.tracking_number {width:90%; margin:0 auto;}
+.tracking_number input {
+	width:95%; 
+	font-size: 16px;
+	padding:10px 5px; 
+	border-radius:5px; 
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+}
+.tracking_error {width:90%; height:20px; margin:5px auto 0 auto;}
+.tracking_error p {font-size:14px; color:red; line-height:20px;}
+.tracking_wrap h2 {font-size:14px; line-height:20px; color:#666; margin:20px 0;}

@@ -1,0 +1,40 @@
+@charset "utf-8";
+.tracking_prod_box {
+	border:1px solid #B3B3B3;
+	padding:10px 0;
+	background:#fff;
+	margin:10px 0;
+}
+.tracking_prod_photo {}
+
+.tracking_prod_photo img {
+	width:100%;
+	height:auto;
+	max-width:80px;
+	float:left;
+	margin:3px;
+}
+.tracking_prod_data {
+	overflow:hidden;
+	margin-top:8px;
+}
+.tracking_prod_item {
+	float:left;
+}
+.tracking_prod_name {
+	font-size:16px;
+	height:22px;
+	line-height:22px;
+	overflow:hidden;
+}
+.tracking_prod_item li {
+	font-size:14px;
+	line-height:24px;
+}
+.tracking_prod_item li span.tracking_prod_size {line-height:18px; font-size:14px;}
+.tracking_prod_price {
+	font-size:20px;
+	font-weight:bold;
+	padding:0 5px;
+	vertical-align:-2px;
+}
