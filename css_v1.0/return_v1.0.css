@@ -1,0 +1,47 @@
+@charset "utf-8";
+.return_wrap {width:100%;}
+.return_wrap ol {
+	margin:20px 15px 20px 0;
+	list-style-type:decimal; 
+	font-size:16px; 
+	line-height:32px;
+	text-align: justify;
+	text-justify:inter-ideograph;
+}
+.return_wrap ol ul {list-style-type:disc; margin-left:20px;}
+.return_wrap h4 {font-size:14px; text-align:center; padding:5px 0; margin-top:20px;}
+.font_red {color:#f00;}
+.scam_item_wrap {width:90%; margin:0 auto; padding-bottom:10px;}
+.scam_item_wrap h3 {
+	border-bottom:1px solid #F78C00; 
+	color:#F78C00; 
+	font-size:18px; 
+	text-align:center; 
+	margin-top:20px; 
+	padding:5px 0;
+}
+.scam_item_wrap li {
+	height:30px;
+	line-height:35px;
+	font-size:15px;
+	margin:10px 0;
+}
+.scam1 li {
+	padding-left:110px;
+}
+.scam1_icon1 {
+	background:url(../images/scam01.png) no-repeat;
+	background-size:contain;
+}
+.scam1_icon2 {
+	background:url(../images/scam02.png) no-repeat;
+	background-size:contain;
+}
+.scam1_icon3 {
+	background:url(../images/scam03.png) no-repeat;
+	background-size:contain;
+}
+.scam2 li {padding-left:30px;}
+.font_big_orange {color:#F78C00; font-size:20px; margin-right:2px;}
+.scam_about_wrap {width:90%; margin:0 auto; border-top:1px solid #B3B3B3; padding-top:10px;}
+.scam_about_wrap p {font-size:14px; text-align:center; line-height:22px;}

@@ -1,0 +1,34 @@
+@charset "utf-8";
+.list_photo img {
+	width: 110px;
+	height: 110px;
+	float: left;
+	margin: 5px;
+}
+.list_data h4 {
+	font-size: 16px;
+	margin-top: 10px;
+	overflow: hidden;
+	height: 40px;
+	line-height: 20px;
+}
+.list_price {	
+	margin: 4px 0;	
+}
+.list_price h6 {
+	font-size: 10px;
+	text-decoration: line-through;
+	color: #666;
+	margin: 10px 0 2px 0;
+	display: inline-block;
+}
+.list_price h3 {
+	font-size: 20px;
+	font-weight: bold;
+	float: left;
+	line-height: 28px;
+	margin-right: 10px;
+}
+.list_icon_bar span {float:right;margin-right:5px;}
+.list_icon_bar span img {width:30px; height:30px;}
+.list_love {margin-right:8px;}
