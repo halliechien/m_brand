@@ -1,0 +1,71 @@
+@charset "utf-8";
+/*大輪播 star*/
+.slider {max-width: 600px; max-height:600px; margin: 0 auto; background:#E6E6E6;}
+/*.slick-slide {padding:0 10px;}*/
+.slick-slide img {width: 100%; height:auto;}
+.slick-dots {bottom:-8px;}
+.slick-dots li {width:5px; height:5px; margin:0 8px;}
+.slick-dotted.slick-slider {margin-bottom:-1px;}
+.slider_bn {}
+/*大輪播 end*/
+
+/*架構外框*/
+.prod_price_wrap {width:100%}
+.prod_intro_wrap {width:100%}
+/*架構外框 end*/
+
+.prod_price {padding:15px 0 5px;}
+.prod_content_title {text-align:center; font-size:16px; line-height:30px;}
+.prod_feature {padding:5px 0; border-top:1px solid #B3B3B3;}
+.item_content {width:85%;}
+.prod_feature h5 {margin:5px;}
+.prod_feature dl {margin:5px;}
+.prod_feature dt {float:left;}
+.prod_feature dd {float:left; margin:0 0;}
+.prod_info_wrap {padding:10px 0;}
+.prod_info_wrap p {text-align:center; line-height:20px;}
+.prod_info_wrap p img {width: 100%; height: auto; max-width: 768px;}
+.bot_title img {width:15px; height:15px;}
+.specification {padding:10px 15px;}
+.specification h5 {padding:2px 30px;}
+.like_box {width:49%; float:left; margin:5px 0;}
+.like_box_photo {text-align:center; padding:5px 0;}
+.like_box a img {width:95%; height:auto; max-width:200px;}
+.like_box_data {width:100%;}
+.like_box_price_bar {}
+.like_box:nth-child(even) {float:right;}
+.arrow_right_black {
+	width:30px;
+	height:30px;
+	display:block;	
+	background: url(../images/arrow_right.png) no-repeat center;
+	background-size: 15px 15px;
+	margin:6px 10px 0 0;
+	float:right;
+}
+.arrow_down_black {
+	width:30px;
+	height:30px;
+	display:block;
+	background: url(../images/arrow_down.png) no-repeat center;
+	background-size: 15px 15px;
+	margin:6px 11px 0 0;
+	float:right;
+}
+
+/*tab ui*/
+.ui-tabs .ui-tabs-panel {padding:5px; border:1px solid #ccc;}
+.ui-tabs .ui-tabs-nav li {font-size:15px;}
+.ui-widget-header {border:none; background:#fff;}
+.ui-widget.ui-widget-content {border:none; border-top:1px solid #B3B3B3;}
+.ui-tabs .ui-tabs-nav {padding:0;}
+
+/*google map*/
+.map_set_wrap {margin:5px 1.5%;}
+.map_set {width:100%; padding:5px;}
+.google_map {height:350px; margin:0 auto;}
+.map_item_wrap {padding:5px 2.5%; margin:5px auto;}
+.map_item {list-style-type:disc; margin-left:18px;}
+.map_item li {margin:8px 0; }
+
+
